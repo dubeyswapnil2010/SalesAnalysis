@@ -1,0 +1,37 @@
+order_id,order_date,customer_name,region,product_category,product_name,quantity,price,revenue,profit
+O001,2024-01-05,John Smith,North,Electronics,Laptop,1,1200,,240
+O002,2024-01-08,Sarah Johnson,South,Furniture,Office Chair,2,150,,
+O003,2024-01-10,Michael Brown,East,Electronics,Monitor,3,300,900,180
+O004,2024-01-12,Emily Davis,West,Software,Microsoft Office,1,150,150,120
+O005,2024-01-15,John Smith,North,Electronics,Keyboard,4,45,180,36
+O005,2024-01-15,John Smith,North,Electronics,Keyboard,4,45,180,36
+O006,2024-01-18,,North,Furniture,Desk,1,400,,120
+O007,2024-01-20,Robert Wilson,South,Software,Adobe Suite,2,500,1000,800
+O008,2024-01-22,Lisa Martinez,East,,Printer,1,350,350,
+O009,2024-01-25,David Lee,West,Electronics,Monitor,2,300,600,120
+O010,2024-01-28,Sarah Johnson,South,Furniture,Bookshelf,3,120,360,90
+O011,2024-02-01,Jennifer Taylor,North,Software,,1,200,200,160
+O012,2024-02-03,Michael Brown,East,Electronics,Laptop,1,1200,,360
+O013,2024-02-05,Robert Wilson,South,Furniture,Office Chair,5,150,750,225
+O014,2024-02-08,Emily Davis,West,Electronics,Keyboard,2,45,,18
+O014,2024-02-08,Emily Davis,West,Electronics,Keyboard,2,45,90,18
+O015,2024-02-10,David Lee,East,Software,Microsoft Office,3,150,450,360
+O016,2024-02-12,Lisa Martinez,West,Furniture,Desk,2,400,,240
+O017,2024-02-15,,South,Electronics,Monitor,4,300,1200,240
+O018,2024-02-18,John Smith,North,Software,Adobe Suite,1,500,500,400
+O019,2024-02-20,Sarah Johnson,South,Furniture,Office Chair,2,150,300,90
+O020,2024-02-22,Michael Brown,East,Electronics,Mouse,10,25,,5
+O021,2024-02-25,Jennifer Taylor,North,Software,Microsoft Office,2,200,,320
+O022,2024-02-28,Robert Wilson,South,Electronics,Laptop,1,1200,1200,360
+O023,2024-03-02,Emily Davis,West,Furniture,Bookshelf,1,120,120,30
+O024,2024-03-05,David Lee,East,Electronics,,2,300,600,180
+O025,2024-03-08,Lisa Martinez,North,Software,Adobe Suite,3,500,,1200
+O026,2024-03-10,John Smith,South,Furniture,Desk,1,400,400,120
+O027,2024-03-12,Sarah Johnson,East,Electronics,Monitor,1,300,300,60
+O028,2024-03-15,Michael Brown,West,Software,,1,150,150,120
+O029,2024-03-18,Robert Wilson,North,Furniture,Office Chair,4,150,600,180
+O030,2024-03-20,Emily Davis,South,Electronics,Keyboard,3,45,135,27
+O031,2024-03-22,Jennifer Taylor,East,Software,Microsoft Office,2,200,,320
+O032,2024-03-25,David Lee,West,Electronics,Laptop,1,1200,1200,360
+O033,2024-03-28,Lisa Martinez,North,Furniture,Bookshelf,2,120,,30
+O034,2024-03-30,John Smith,South,Electronics,Monitor,3,300,900,180
